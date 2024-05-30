@@ -1,0 +1,20 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.exe.config
+D:\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.exe
+D:\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.exe
+D:\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\bin\Debug\dryice_cmd_to_unit.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_cmd_to_unit\dryice_cmd_to_unit\obj\Debug\dryice_cmd_to_unit.pdb
